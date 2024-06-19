@@ -1,17 +1,16 @@
-import { createRouter, createWebHistory } from 'vue-router'
-// import Index from '../components/Index.vue'
-import About from '../components/About.vue'
 
+import { createRouter, createWebHistory } from 'vue-router';
+import HomePage from '../pages/HomePage.vue';
+import AboutPage from '../pages/AboutPage.vue';
 
 const routes = [
-  // { path: '/', component: Index },
-  { path: '/About', component: About },
- 
-]
+  { path: '/', component: HomePage },
+  { path: '/about', component: AboutPage },
+];
 
 const router = createRouter({
   history: createWebHistory('/'),
-  routes
-})
+  routes,
+});
 
-export default router
+export default router;

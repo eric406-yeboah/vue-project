@@ -17,7 +17,7 @@
                 <router-link class="nav-link" to="/">Home <span class="sr-only">(current)</span></router-link>
               </li>
               <li class="nav-item">
-                <router-link class="nav-link" to="/About">About</router-link>
+                <router-link class="nav-link" to="about">About</router-link>
               </li>
               <li class="nav-item">
                 <router-link class="nav-link" to="/furniture">Furnitures</router-link>
@@ -46,15 +46,14 @@
         </div>
       </nav>
     </header>
+    <!-- <router-view></router-view> -->
   </template>
   
   <script>
   export default {
-    name: 'Header'
+    name: 'App',
   }
   </script>
   
-  <style scoped>
-  /* Add your custom styles here */
-  </style>
+  
   
