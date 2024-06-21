@@ -31,7 +31,7 @@
             </ul>
           </div>
           <div class="quote_btn-container">
-            <router-link to="/login">
+            <router-link to="">
               <span>
                 Login
               </span>

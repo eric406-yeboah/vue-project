@@ -7,13 +7,13 @@
     <a href="">
       <i class="fa fa-phone" aria-hidden="true"></i>
       <span>
-        Call : +01 123455678990
+        Call : +233 555555555
       </span>
     </a>
     <a href="">
       <i class="fa fa-envelope" aria-hidden="true"></i>
       <span>
-        Email : demo@gmail.com
+        Email : 55555@gmail.com
       </span>
     </a>
     <a href="">
@@ -32,11 +32,11 @@
             QUICK LINKS
           </h4>
           <div class="info_links_menu">
-            <a class="" href="index.html">Home <span class="sr-only">(current)</span></a>
-            <a class="" href="about.html"> About</a>
-            <a class="" href="furniture.html">Furniture</a>
-            <a class="" href="blog.html">Blog</a>
-            <a class="" href="contact.html">Contact Us</a>
+            <a class="" href="/">Home <span class="sr-only">(current)</span></a>
+            <a class="" href="/about"> About</a>
+            <a class="" href="/furniture">Furniture</a>
+            <a class="" href="/blog">Blog</a>
+            <a class="" href="/contact">Contact Us</a>
           </div>
         </div>
       </div>
