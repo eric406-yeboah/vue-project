@@ -481,7 +481,12 @@
         <div class="col-md-6">
           <div class="map_container">
             <div class="map">
-              <div id="googleMap"></div>
+              <div id="googleMap">
+                <!-- <iframe
+										src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.7490167723445!2d-1.6065854269549222!3d6.67798532135284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdb96a3ee2d0fa9%3A0x46103dbfce0a4726!2sOpenLabs%20Kumasi%20(%20Formerly%20NIIT%20)!5e0!3m2!1sen!2sgh!4v1717675077176!5m2!1sen!2sgh"
+										allowfullscreen="" loading="lazy"
+										referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+              </div>
             </div>
           </div>
         </div>
